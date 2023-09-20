@@ -19,4 +19,6 @@ The user can provide a currency of their liking from the currencies available fr
 
 In case of a wrong currency or no value the currency will not be changed.
 
-![transform](https://github.com/KarlJosephKumar/PythonDataEngineeringIBM/assets/41339304/59763d2d-5c9e-48d7-aab1-08d5c54a81fa)
+![transform](https://github.com/KarlJosephKumar/PythonDataEngineeringIBM/assets/41339304/3e0c25f0-f87c-4b9a-b135-675c60691f56)
+
+Steps are logged into a logfile and a market cap csv file is created with corresponding name as: bank_market_cap_"Currency_chosen".csv
