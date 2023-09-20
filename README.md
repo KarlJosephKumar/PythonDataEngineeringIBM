@@ -9,7 +9,7 @@ https://web.archive.org/web/20200318083015/https://en.wikipedia.org/wiki/List_of
 
 In the second task I extracted the information from a json and a csv file and removed unnecessary columns which I webscraped.
 
-![extract](https://github.com/KarlJosephKumar/PythonDataEngineeringIBM/assets/41339304/79e02acf-ef81-4ecb-b4eb-1f9521e84ea7)
+![extract](https://github.com/KarlJosephKumar/PythonDataEngineeringIBM/assets/41339304/5c94b6b5-53ed-46fc-b7ae-35b77f49428a)
 
 In the third task I transformed data on the bank list file.
 
@@ -19,6 +19,6 @@ The user can provide a currency of their liking from the currencies available fr
 
 In case of a wrong currency or no value the currency will not be changed.
 
-![transform](https://github.com/KarlJosephKumar/PythonDataEngineeringIBM/assets/41339304/3e0c25f0-f87c-4b9a-b135-675c60691f56)
+![transform](https://github.com/KarlJosephKumar/PythonDataEngineeringIBM/assets/41339304/9376bdff-3be5-4a1b-a8b0-8e1096e6ccc2)
 
 Steps are logged into a logfile and a market cap csv file is created with corresponding name as: bank_market_cap_"Currency_chosen".csv
