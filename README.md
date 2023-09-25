@@ -2,6 +2,19 @@
 
 Jupyter files are included
 
+Using ExchangeRate-API to extract currency exchange rate data.
+
+Free API keys are available from: https://exchangeratesapi.io/
+
+Subscribe to free plan and sign-in with an account and by clicking on the user icon and going into account it is possible to get a free access key.
+
+In the code the ******* need to be changed to the key you recieve.
+
+url = "http://api.exchangeratesapi.io/v1/latest?base=EUR&access_key=*******" <br>
+<br>
+<br>
+<br>
+
 Firstly I webscraped largest banks by their market cap from:
 
 https://web.archive.org/web/20200318083015/https://en.wikipedia.org/wiki/List_of_largest_banks
