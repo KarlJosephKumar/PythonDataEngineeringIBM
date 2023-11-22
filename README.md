@@ -1,4 +1,21 @@
 # Python project for Data Engineering by IBM
+A small project where I web scraped the market cap of the biggest banks from a wiki page and transformed them into another currency from a currency API.<br>
+## Key learnings:
+- Web scraping<br>
+- API handling and integration<br>
+- Data transformation<br>
+- Reading and creating CSV files<br>
+
+# Technologies:
+- Python
+- Jupyter
+- Pandas
+
+## How to use:
+
+When going through the run code it will ask you for a currency that you want to transform the data into.
+
+A CSV file will also be given with all the data in your chosen currency inside.
 
 Jupyter files are included
 
@@ -11,9 +28,8 @@ Subscribe to free plan and sign-in with an account and by clicking on the user i
 In the code the ******* need to be changed to the key you recieve.
 
 url = "http://api.exchangeratesapi.io/v1/latest?base=EUR&access_key=*******" <br>
-<br>
-<br>
-<br>
+
+## Preview:
 
 Firstly I webscraped largest banks by their market cap from:
 
